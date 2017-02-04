@@ -1,4 +1,4 @@
-# lodash-extensions
+# finite-font-adventures
 
 An icon font - featuring icons missing from popular icon fonts.
 
