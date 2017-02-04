@@ -1,0 +1,14 @@
+{
+  "name": "finite-font-adventures",
+  "version": "0.0.1",
+  "private": false,
+  "main": "css/fa-extension.css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo.html"
+  ],
+  "dependencies": {
+  }
+}

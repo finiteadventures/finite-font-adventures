@@ -1,0 +1,8 @@
+/bower_components/
+/src/bower_components/
+/node_modules/
+/.sass-cache/
+/coverage/
+.DS_Store
+*.swo
+*.swp
