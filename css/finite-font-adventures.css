@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'fa-extension';
-  src: url('../font/fa-extension.eot?37118775');
-  src: url('../font/fa-extension.eot?37118775#iefix') format('embedded-opentype'),
-       url('../font/fa-extension.woff2?37118775') format('woff2'),
-       url('../font/fa-extension.woff?37118775') format('woff'),
-       url('../font/fa-extension.ttf?37118775') format('truetype'),
-       url('../font/fa-extension.svg?37118775#fa-extension') format('svg');
+  font-family: 'finite-font-adventures';
+  src: url('../font/finite-font-adventures.eot?86172726');
+  src: url('../font/finite-font-adventures.eot?86172726#iefix') format('embedded-opentype'),
+       url('../font/finite-font-adventures.woff2?86172726') format('woff2'),
+       url('../font/finite-font-adventures.woff?86172726') format('woff'),
+       url('../font/finite-font-adventures.ttf?86172726') format('truetype'),
+       url('../font/finite-font-adventures.svg?86172726#finite-font-adventures') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,14 +14,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'fa-extension';
-    src: url('../font/fa-extension.svg?37118775#fa-extension') format('svg');
+    font-family: 'finite-font-adventures';
+    src: url('../font/finite-font-adventures.svg?86172726#finite-font-adventures') format('svg');
   }
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fa-extension";
+ [class^="ffa-"]:before, [class*=" ffa-"]:before {
+  font-family: "finite-font-adventures";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -55,6 +55,6 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-spoonflower:before { content: '\e800'; } /* '' */
-.icon-redbubble:before { content: '\e801'; } /* '' */
-.icon-patreon:before { content: '\e802'; } /* '' */
+.ffa-spoonflower:before { content: '\e800'; } /* '' */
+.ffa-redbubble:before { content: '\e801'; } /* '' */
+.ffa-patreon:before { content: '\e802'; } /* '' */

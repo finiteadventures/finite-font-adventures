@@ -2,7 +2,7 @@
   "name": "finite-font-adventures",
   "version": "0.0.1",
   "private": false,
-  "main": "css/fa-extension.css",
+  "main": "css/finite-font-adventures.css",
   "ignore": [
     "**/.*",
     "node_modules",
